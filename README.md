@@ -1,7 +1,7 @@
 CCRM (Campus Course & Records Manager)
 A Java Project by Raushan Kumar
 
-Repo: link
+Repo: https://github.com/Raushan-16/JAVA_Project
 
 Hey there. So this is CCRM, a little command-line project I built. Honestly, the main reason I made this was to really sink my teeth into some modern Java features. The idea was simple: build a tool to manage basic college stuff like student records, courses, and grades. Something practical, you know? It runs completely in the console.
 
